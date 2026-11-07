@@ -1,3 +1,5 @@
+> **Moved to [h4ckm1n-dev/herdr-mods](https://github.com/h4ckm1n-dev/herdr-mods).** This repo is archived; install from there with `./install.sh`.
+
 # Git
 
 **Source control and the commit graph in one [Herdr](https://herdr.dev) panel.** Stage, unstage and discard files, stage single hunks, write the commit message, sync with the remote, switch branches and stash, with the commit graph always visible underneath. Never leave Herdr for the daily git loop.
